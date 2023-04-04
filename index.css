@@ -1,0 +1,517 @@
+body{
+    background-color: black;
+}
+nav{
+    box-sizing: border-box;
+    position: absolute;
+    width: 1687px;
+    height: 63px;
+    left: 19px;
+    top: 18px;
+    border: 1px solid #B1A592;
+    border-radius: 50px;
+    /* background: black; */
+}
+#bcmp{font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+    color: #B1A592;
+    position: absolute;
+    width: 282px;
+    height: 50px;
+    left: 6px;
+    top: 6px;
+    background: #323025; 
+    border-radius: 50px;
+}
+#bcol{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #333333;
+    position: absolute;
+    width: 236px;
+    height: 50px;
+    left: 319px;
+    top: 6px;
+    background: #B1A592;
+    border-radius: 50px;
+}
+#bmen{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #B1A592;
+    box-sizing: border-box;
+    position: absolute;
+    width: 207px;
+    height: 50px;
+    left: 566px;
+    top: 6px;
+    border: 1px solid #B1A592;
+    border-radius: 50px;
+    background: black;
+}
+#bev{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #B1A592;
+    box-sizing: border-box;
+    position: absolute;
+    width: 184px;
+    height: 50px;
+    left: 784px;
+    top: 6px;
+    border: 1px solid #B1A592;
+    border-radius: 50px;
+    background: black;
+}
+#bcont{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #B1A592;
+    box-sizing: border-box;
+    position: absolute;
+    width: 184px;
+    height: 50px;
+    left: 1496px;
+    right: 500px;
+    top: 6px;
+    border: 1px solid #B1A592;
+    border-radius: 50px;
+    background: black;
+}
+
+/* desktop view */
+#block1  
+{
+    position: absolute;
+width: 667px;
+height: 980px;
+left: 35px;
+top: 99px;
+background: #DFD6C5;
+border-radius: 30px;
+}
+#s1p1{
+    box-sizing: border-box;
+position: absolute;
+width: 207px;
+height: 34px;
+left: 35px;
+top: 132px;
+
+border: 1px solid #323025;
+border-radius: 50px;
+    position: absolute;
+    width: 146px;
+    height: 24px;
+    left: 30px;
+    top: 20px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 24px;
+    color: #323025;
+}
+#s1p2{
+    position: absolute;
+    width: 271px;
+    height: 29px;
+    left: 30px;
+    top: 60px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+    text-decoration-line: underline;
+    color: #333333;
+}
+
+#image1
+{
+    position: absolute;
+    width: 631px;
+    height: 730px;
+    left: 20px;
+    top: 150px;
+    
+    background: url(./temple.png);
+    border-radius: 20px;
+}
+#dline1{
+    position: absolute;
+width: 625px;
+height: 0px;
+left: 20px;
+top: 920px;
+border: 1px solid #333333;
+}
+#s1p3{
+    position: absolute;
+width: 133px;
+height: 29px;
+left: 30px;
+top: 910px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+color: #333333;
+
+}
+#arrow1{
+    box-sizing: border-box;
+
+position: absolute;
+width: 25px;
+height: 0px;
+left: 630px;
+top: 945px;
+
+border: 2px solid #323025;
+}
+
+/* block 2 */
+#block2{
+    position: absolute;
+    width: 967px;
+    height: 356px;
+    left: 719px;
+    top: 99px;
+    background: #8E886D;
+    border-radius: 30px;
+}
+#b2p1{
+    position: absolute;
+width: 967px;
+height: 356px;
+left: 719px;
+top: 99px;
+
+background: #8E886D;
+border-radius: 30px;
+    position: absolute;
+    width: 146px;
+    height: 24px;
+    left: 35px;
+    top: 35px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 24px;
+    
+    color: #323025;
+    
+}
+#b2p2{
+    position: absolute;
+    width: 271px;
+    height: 29px;
+    left: 35px;
+    top: 65px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+    
+    text-decoration-line: underline;
+    
+    color: #333333;
+}
+#b2p3{
+    position: absolute;
+    width: 382px;
+    height: 72px;
+    left: 35px;
+    top: 125px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    
+    color: #333333;
+}
+#image2{
+    position: absolute;
+width: 523px;
+height: 235px;
+left: 420px;
+top: 35px;
+background: url(./womenwithboy.png);
+border-radius: 20px;
+}
+#dline2{
+    position: absolute;
+width: 920px;
+height: 0px;
+left: 15px;
+top: 300px;
+
+border: 1px solid #333333;
+}
+#b2p4{
+    position: absolute;
+width: 180px;
+height: 29px;
+left: 15px;
+top: 290px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+color: #333333;
+}
+#arrow2{
+box-sizing: border-box;
+
+position: absolute;
+width: 36px;
+height: 0px;
+left: 900px;
+top: 320px;
+
+border: 2px solid #323025;
+}
+
+
+/* block3 */
+#block3{
+    position: absolute;
+width: 405px;
+height: 597px;
+left: 720px;
+top: 475px;
+
+background: #916E58;
+border-radius: 30px;
+}
+#image3{
+    position: absolute;
+    width: 385px;
+    height: 168px;
+    left: 10px;
+    top: 20px;
+    background: url(women.png);
+    border-radius: 20px;
+}
+#b3p1{
+    position: absolute;
+    width: 304px;
+    height: 59px;
+    left: 25px;
+    top: 170px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 44px;
+    text-decoration-line: underline;
+    
+    color: #333333;
+}
+#b3p3{
+    position: absolute;
+    width: 380px;
+    height: 216px;
+    left: 12px;
+    top: 250px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    text-align:justify;
+    
+    color: #333333;
+}
+
+#dline3{
+    position: absolute;
+    width: 380px;
+    height: 0px;
+    left: 15px;
+    top: 500px;
+    
+    border: 1px solid #333333;
+}
+#b3p4{
+    position: absolute;
+    width: 184px;
+    height: 17px;
+    left: 15px;
+    top: 500px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #333333;
+}
+#arrow3{
+    box-sizing: border-box;
+    position: absolute;
+    width: 15.18px;
+    height: 0px;
+    left: 380px;
+    top: 545px;
+    border: 2px solid #323025;
+    
+}
+/* block4 */
+#block4{
+    position: absolute;
+    width: 525px;
+    height: 597px;
+    left: 1161px;
+    top: 480px;
+    
+    background: #B1A48E;
+    border-radius: 30px;
+}
+#b4p1{
+    position: absolute;
+width: 146px;
+height: 24.71px;
+left: 25px;
+top: 100px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #323025;
+}
+#b4p2{
+    position: absolute;
+width: 304px;
+height: 59px;
+left: 25px;
+top: 150px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 44px;
+text-decoration-line: underline;
+
+color: #333333;
+
+    
+}
+#image4{
+    position: absolute;
+    width: 113px;
+    height: 113px;
+    top:100px;
+    left: 400px;
+    background: url(./man.png);
+    border-radius: 30000px;
+    
+}
+#b4p3{
+    position: absolute;
+    width: 485px;
+    height: 312px;
+    left: 25px;
+    top: 250px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: left;
+    
+    color: #333333;
+    
+}
+#dline4{
+    position: absolute;
+    width: 500px;
+    height: 0px;
+    left: 15px;
+    top: 520px;
+    
+    border: 1px solid #333333;
+}
+
+#b4p4{
+    position: absolute;
+    width: 239px;
+    height: 17px;
+    left: 25px;
+    top: 520px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #333333;
+}
+#arrow4{
+    box-sizing: border-box;
+
+position: absolute;
+width: 20px;
+height: 0px;
+left: 480px;
+top: 560px;
+
+border: 2px solid #323025;
+
+}
+/* mobile view */
+
+/* tablet view */
