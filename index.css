@@ -194,10 +194,10 @@ color: #333333;
     box-sizing: border-box;
 
 position: absolute;
-width: 25px;
-height: 0px;
-left: 630px;
-top: 945px;
+width: 50px;
+height: 20px;
+left: 590px;
+top: 940px;
 
 border: 2px solid #323025;
 }
@@ -306,9 +306,9 @@ color: #333333;
 box-sizing: border-box;
 
 position: absolute;
-width: 36px;
-height: 0px;
-left: 900px;
+width: 50px;
+height: 20px;
+left: 890px;
 top: 320px;
 
 border: 2px solid #323025;
@@ -395,10 +395,10 @@ border-radius: 30px;
 #arrow3{
     box-sizing: border-box;
     position: absolute;
-    width: 15.18px;
-    height: 0px;
-    left: 380px;
-    top: 545px;
+    width: 50px;
+    height: 20px;
+    left: 345px;
+    top: 535px;
     border: 2px solid #323025;
     
 }
@@ -504,10 +504,10 @@ color: #333333;
     box-sizing: border-box;
 
 position: absolute;
-width: 20px;
-height: 0px;
-left: 480px;
-top: 560px;
+width: 50px;
+height: 20px;
+left: 460px;
+top: 550px;
 
 border: 2px solid #323025;
 
