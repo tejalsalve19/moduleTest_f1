@@ -352,8 +352,27 @@ border-radius: 30px;
     font-weight: 700;
     font-size: 36px;
     line-height: 44px;
-    text-decoration-line: underline;
     color: #333333;
+    cursor: pointer;
+}
+#b3p1::after{
+    content: "";
+    position: absolute;
+    transition:0.3s;
+    height: 4px;
+    width: 0%;
+    left: 0;
+    display: block;
+    background-color: #333333;
+    transition: 0.3s;
+    transition-timing-function: ease-in-out;
+} 
+#b3p1:hover::after{
+    content: "";
+    height: 4px;
+    width: 100%;
+    display: block;
+    background-color: #333333;
 }
 
 #b3p3{
