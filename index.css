@@ -161,38 +161,44 @@ border-radius: 50px;
     top: 150px;
     background: url(./temple.png);
     border-radius: 20px;
+    background-size: 100%;
+    transition:1s;
+    cursor: zoom-in;
+}
+#image1:hover{
+   background-size: 105%;
 }
 
 #dline1{
     position: absolute;
-width: 625px;
-height: 0px;
-left: 20px;
-top: 920px;
-border: 0.5px solid #333333;
+    width: 625px;
+    height: 0px;
+    left: 20px;
+    top: 920px;
+    border: 0.5px solid #333333;
 }
 
 #s1p3{
     position: absolute;
-width: 133px;
-height: 29px;
-left: 30px;
-top: 910px;
-font-family: 'Inter';
-font-style: normal;
-font-weight: 400;
-font-size: 24px;
-line-height: 29px;
-color: #333333;
+    width: 133px;
+    height: 29px;
+    left: 30px;
+    top: 910px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: #333333;
 }
 
 #arrow1{
     box-sizing: border-box;
-position: absolute;
-width: 50px;
-height: 20px;
-left: 590px;
-top: 940px;
+    position: absolute;
+    width: 50px;
+    height: 20px;
+    left: 590px;
+    top: 940px;
 /* border: 2px solid #323025; */
 }
 
@@ -210,12 +216,12 @@ top: 940px;
 
 #b2p1{
     position: absolute;
-width: 967px;
-height: 356px;
-left: 719px;
-top: 99px;
-background: #8E886D;
-border-radius: 30px;
+    width: 967px;
+    height: 356px;
+    left: 719px;
+    top: 99px;
+    background: #8E886D;
+    border-radius: 30px;
     position: absolute;
     width: 146px;
     height: 24px;
@@ -260,35 +266,41 @@ border-radius: 30px;
 
 #image2{
     position: absolute;
-width: 523px;
-height: 235px;
-left: 420px;
-top: 35px;
-background: url(./womenwithboy.png);
-border-radius: 20px;
+    width: 523px;
+    height: 235px;
+    left: 420px;
+    top: 35px;
+    background: url(./womenwithboy.png);
+    border-radius: 20px;
+    background-size: 100%;
+    transition:1s;
+    cursor: zoom-in;
+}
+#image2:hover{
+   background-size: 105%;
 }
 
 #dline2{
     position: absolute;
-width: 920px;
-height: 0px;
-left: 15px;
-top: 300px;
-border: 1px solid #333333;
+    width: 920px;
+    height: 0px;
+    left: 15px;
+    top: 300px;
+    border: 1px solid #333333;
 }
 
 #b2p4{
     position: absolute;
-width: 180px;
-height: 29px;
-left: 15px;
-top: 290px;
-font-family: 'Inter';
-font-style: normal;
-font-weight: 400;
-font-size: 24px;
-line-height: 29px;
-color: #333333;
+    width: 180px;
+    height: 29px;
+    left: 15px;
+    top: 290px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: #333333;
 }
 
 #arrow2{
@@ -321,6 +333,12 @@ border-radius: 30px;
     top: 20px;
     background: url(women.png);
     border-radius: 20px;
+    background-size: 100%;
+    transition:1s;
+    cursor: zoom-in;
+}
+#image3:hover{
+   background-size: 105%;
 }
 
 #b3p1{
@@ -400,16 +418,16 @@ border-radius: 30px;
 
 #b4p1{
     position: absolute;
-width: 146px;
-height: 17px;
-left: 35px;
-top: 100px;
-font-family: 'Inter';
-font-style: normal;
-font-weight: 300;
-font-size: 24px;
-line-height: 24px;
-color: #323025;
+    width: 146px;
+    height: 17px;
+    left: 35px;
+    top: 100px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 24px;
+    color: #323025;
 }
 
 #b4p2{
@@ -435,6 +453,12 @@ color: #333333;
     left: 400px;
     background: url(./man.png);
     border-radius: 30000px;   
+    background-size: 100%;
+    transition:1s;
+    cursor: zoom-in;
+}
+#image4:hover{
+   background-size: 105%;
 }
 #b4p3{
     position: absolute;
